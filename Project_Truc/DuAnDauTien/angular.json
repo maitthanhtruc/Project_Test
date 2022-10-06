@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "DuAnDauTien": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DuAnDauTien"
+    }
+  },
+  "defaultProject": "DuAnDauTien",
+  "cli": {
+    "analytics": "0943e7e3-1eaf-4d90-b0bd-115131e49b97"
+  }
 }
